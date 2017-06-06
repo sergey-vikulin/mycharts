@@ -1,9 +1,9 @@
 apiVersion: v1
 entries:
   myapp:
-  - created: 2017-05-17T11:11:17.309870789+07:00
+  - created: 2017-06-06T15:06:26.148773023+03:00
     description: A Helm chart template for Kubernetes charts repository
-    digest: f18546f1b3708ed4b57c58662d0f220b2eead136b10a71019a345e9fbad0d7ba
+    digest: 28d9fd8bfb8c160862e5f088cc4026403ad5d2bd4cea78cce3024f967df5eca2
     engine: gotpl
     home: https://k8s.community/
     maintainers:
@@ -11,8 +11,8 @@ entries:
       name: Kubernetes Community
     name: myapp
     sources:
-    - https://github.com/k8s-community/myapp
+    - https://github.com/sergey-vikulin/myapp
     urls:
-    - https://k8s-community.github.io/mycharts/myapp-0.0.5.tgz
+    - https://sergey-vikulin.github.io/mycharts/myapp-0.0.5.tgz
     version: 0.0.5
-generated: 2017-05-17T11:11:17.308000297+07:00
+generated: 2017-06-06T15:06:26.148363931+03:00
